@@ -1,0 +1,10 @@
+-----calibration-----do not edit-----
+Matrix parameters (fx fy cx cy):
+755.7474820310374 755.3209053313582 317.36015239539233 262.23083606666484
+
+Distortion parameters (k1 k2 p1 p2 k3):
+-0.06100712361379748 0.4068731903510133 0.0014942210356759225 -0.0029827598264132163 -0.36327297054966523
+
+-----info-----may be edited-----
+
+Distance to calibration: 
